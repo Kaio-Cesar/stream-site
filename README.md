@@ -1,3 +1,3 @@
-<h3> It's my portfolio site </h3>
+<h3> It's a personal stream site </h3>
 
-Currently, in development and highly experimental.
+Made to handle the tabletop stream for my TTRPG sessions
